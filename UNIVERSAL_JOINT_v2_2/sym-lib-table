@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "UNIVERSAL_JOINT_v2_2")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT_v2_2.kicad_sym")(options "")(descr ""))
+  (lib (name "M20-7810345")(type "KiCad")(uri "${KIPRJMOD}/M20-7810345/M20-7810345.kicad_sym")(options "")(descr ""))
+  (lib (name "FTSH-107-01-L-DV-K-TR")(type "KiCad")(uri "${KIPRJMOD}/FTSH-107-01-L-DV-K-TR/FTSH-107-01-L-DV-K-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector")(type "KiCad")(uri "${KIPRJMOD}/../5.99/symbols/Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Device")(type "KiCad")(uri "${KIPRJMOD}/../5.99/symbols/Device.kicad_sym")(options "")(descr ""))
+  (lib (name "Interface_CAN_LIN")(type "KiCad")(uri "${KIPRJMOD}/../5.99/symbols/Interface_CAN_LIN.kicad_sym")(options "")(descr ""))
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/../5.99/symbols/power.kicad_sym")(options "")(descr ""))
+)

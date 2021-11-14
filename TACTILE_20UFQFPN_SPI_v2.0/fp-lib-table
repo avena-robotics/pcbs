@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Magnetic Finger SMALL Ampheol")(type "KiCad")(uri "$(KIPRJMOD)/Magnetic Finger SMALL Ampheol.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "JS202011SCQN")(type "KiCad")(uri "${KIPRJMOD}/JS202011SCQN/JS202011SCQN.kicad_sym")(options "")(descr ""))
+  (lib (name "Belago1.1")(type "KiCad")(uri "${KIPRJMOD}/Belago1.1/Belago1.1.kicad_sym")(options "")(descr ""))
+  (lib (name "AZ1084-ADJ")(type "KiCad")(uri "${KIPRJMOD}/AZ1084-ADJ/AZ1084-ADJ.kicad_sym")(options "")(descr ""))
+  (lib (name "CS-4-13NTB")(type "KiCad")(uri "${KIPRJMOD}/CS-4-13NTB/CS-4-13NTB.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "CS-4-13NTB")(type "KiCad")(uri "${KIPRJMOD}/CS-4-13NTB")(options "")(descr ""))
+  (lib (name "JS202011SCQN")(type "KiCad")(uri "${KIPRJMOD}/JS202011SCQN")(options "")(descr ""))
+  (lib (name "Belago1.1")(type "KiCad")(uri "${KIPRJMOD}/Belago1.1/Belago1.1.pretty")(options "")(descr ""))
+  (lib (name "AZ1084-ADJ")(type "KiCad")(uri "${KIPRJMOD}/AZ1084-ADJ")(options "")(descr ""))
+)

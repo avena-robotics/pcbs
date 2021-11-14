@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Belago1.1")(type "KiCad")(uri "${KIPRJMOD}/Belago1.1/Belago1.1.pretty")(options "")(descr ""))
+  (lib (name "CS-4-13NTB")(type "KiCad")(uri "${KIPRJMOD}/CS-4-13NTB")(options "")(descr ""))
+  (lib (name "IRL100HS121")(type "KiCad")(uri "${KIPRJMOD}/IRL100HS121/IRL100HS121.pretty")(options "")(descr ""))
+)
