@@ -1,6 +1,5 @@
 (fp_lib_table
-  (lib (name "UNIVERSAL_JOINT_v2_2")(type "KiCad")(uri "$(KIPRJMOD)/UNIVERSAL_JOINT_v2_2.pretty")(options "")(descr ""))
+  (lib (name "UNIVERSAL_JOINT")(type "KiCad")(uri "$(KIPRJMOD)/UNIVERSAL_JOINT/footprints")(options "")(descr ""))
   (lib (name "M20-7810345")(type "KiCad")(uri "${KIPRJMOD}/M20-7810345")(options "")(descr ""))
   (lib (name "FTSH-107-01-L-DV-K-TR")(type "KiCad")(uri "${KIPRJMOD}/FTSH-107-01-L-DV-K-TR")(options "")(descr ""))
-  (lib (name "footprints")(type "KiCad")(uri "C:/Users/lukas/Desktop/ST/universal_joint_master/kicad/5.99/footprints.pretty")(options "")(descr ""))
 )

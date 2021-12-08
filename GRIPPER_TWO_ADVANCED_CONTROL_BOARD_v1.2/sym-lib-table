@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Gripper FeeTech-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Gripper FeeTech-eagle-import.kicad_sym")(options "")(descr ""))
+)

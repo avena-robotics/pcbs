@@ -6,4 +6,5 @@
   (lib (name "Device")(type "KiCad")(uri "${KIPRJMOD}/../5.99/symbols/Device.kicad_sym")(options "")(descr ""))
   (lib (name "Interface_CAN_LIN")(type "KiCad")(uri "${KIPRJMOD}/../5.99/symbols/Interface_CAN_LIN.kicad_sym")(options "")(descr ""))
   (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/../5.99/symbols/power.kicad_sym")(options "")(descr ""))
+  (lib (name "UNIVERSAL_JOINT_v2_2-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT_v2_2-eagle-import.kicad_sym")(options "")(descr ""))
 )

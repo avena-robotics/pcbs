@@ -69,6 +69,7 @@
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
+        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -87,6 +88,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -435,8 +437,8 @@
   },
   "sheets": [
     [
-      "65da5ce2-f108-4bcb-af66-65454ab02576",
-      ""
+      "db8bad84-7d0c-45ac-b317-70b919ea3d3f",
+      "Gripper Connection Board_0"
     ]
   ],
   "text_variables": {}
