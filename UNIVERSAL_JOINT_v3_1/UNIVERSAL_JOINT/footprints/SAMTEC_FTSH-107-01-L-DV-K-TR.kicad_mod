@@ -1,5 +1,5 @@
 (footprint "SAMTEC_FTSH-107-01-L-DV-K-TR" (version 20211014) (generator pcbnew) (layer "F.Cu")
-  (tedit 61A686CC)
+  (tedit 61B08054)
   (attr through_hole)
   (fp_text reference "REF**" (at -2.27 -5.315) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -42,7 +42,7 @@
   (pad "12" smd rect locked (at 2.54 -2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b7b12154-1255-4977-b2a7-8263bfd55552))
   (pad "13" smd rect locked (at 3.81 2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 974ebb4a-177a-4bd7-9570-09da07bd3f35))
   (pad "14" smd rect locked (at 3.81 -2.035) (size 0.74 2.79) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3999ccf8-d68c-4fdb-b720-ac3edf8811a4))
-  (model "${KIPRJMOD}/UNIVERSAL_JOINT/FTSH-107-01-L-DV-K-TR.step"
+  (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/FTSH-107-01-L-DV-K-TR.step"
     (offset (xyz 0 0 0.4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
