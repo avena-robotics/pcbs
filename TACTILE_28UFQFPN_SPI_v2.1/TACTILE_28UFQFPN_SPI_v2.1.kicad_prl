@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -33,7 +33,6 @@
       3,
       4,
       5,
-      6,
       8,
       9,
       10,
@@ -63,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "40290aa_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "TACTILE_28UFQFPN_SPI_v2.0.kicad_prl",
+    "filename": "TACTILE_28UFQFPN_SPI_v2.1.kicad_prl",
     "version": 3
   },
   "project": {
