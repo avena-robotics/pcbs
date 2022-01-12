@@ -383,7 +383,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "ir_led_projector_v0.1.step",
+      "step": "ir_led_projector_v0.3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

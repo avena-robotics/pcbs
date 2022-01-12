@@ -1680,7 +1680,7 @@
     (property "Reference" "Q1" (id 0) (at 181.61 98.4249 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Q_NMOS_DGS" (id 1) (at 181.61 100.9649 0)
+    (property "Value" "AON3402" (id 1) (at 181.61 100.9649 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "IR_LED_PROJECTOR:DFN3x3A_8L_NEP_P" (id 2) (at 180.975 97.155 0)
@@ -1810,7 +1810,7 @@
       (reference "POW4") (unit 1) (value "TestPoint_Flag") (footprint "footprints:TestPoint_Pad_4.0x4.0mm")
     )
     (path "/10dc7bbf-0815-4851-9f11-c5ef255e8d9b"
-      (reference "Q1") (unit 1) (value "Q_NMOS_DGS") (footprint "IR_LED_PROJECTOR:DFN3x3A_8L_NEP_P")
+      (reference "Q1") (unit 1) (value "AON3402") (footprint "IR_LED_PROJECTOR:DFN3x3A_8L_NEP_P")
     )
     (path "/dc09fd24-3a59-4a3b-a68c-672e8a7575f8"
       (reference "R1") (unit 1) (value "1k") (footprint "footprints:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")

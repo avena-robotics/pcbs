@@ -1,5 +1,5 @@
-(footprint "SO-8FL" (version 20210824) (generator pcbnew) (layer "F.Cu")
-  (tedit 61715FFA)
+(footprint "SO-8FL" (version 20211014) (generator pcbnew) (layer "F.Cu")
+  (tedit 61C04947)
   (fp_text reference "REF**" (at 4.445 3.175 90) (layer "F.SilkS")
     (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
     (tstamp e7ced207-139b-4d2b-b5dc-e4e2c3708dce)
@@ -21,4 +21,9 @@
     (solder_mask_margin 0.1016) (tstamp 056429fc-adf7-4d5d-8f08-265d6d084f2e))
   (pad "P$5" smd rect (at 0 -0.416875 90) (size 4.83375 5.279374) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.1016) (tstamp bd8e7981-ba3b-40c6-a792-8fff14bd57c2))
+  (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/IAUC120N06S5L.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

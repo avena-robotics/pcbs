@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name "Gripper FeeTech-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Gripper FeeTech-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/GRIPPER_TWO_ADVANCED_CONTROL_BOARD/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "STR485LVQT")(type "KiCad")(uri "${KIPRJMOD}/GRIPPER_TWO_ADVANCED_CONTROL_BOARD/symbols/STR485LVQT.kicad_sym")(options "")(descr ""))
+  (lib (name "INA282AID")(type "KiCad")(uri "${KIPRJMOD}/GRIPPER_TWO_ADVANCED_CONTROL_BOARD/symbols/INA282AID.kicad_sym")(options "")(descr ""))
 )

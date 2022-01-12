@@ -1,5 +1,5 @@
 (footprint "SKHMPXE010" (version 20211014) (generator pcbnew) (layer "F.Cu")
-  (tedit 61B14205)
+  (tedit 61C04A18)
   (descr "<b>6.2 X 6.5mm TACT Switch (SMD)</b><p>\nSource: http://www3.alps.co.jp/WebObjects/catalog.woa/PDF/E/Switch/Tact/SKHM/SKHM.PDF")
   (fp_text reference "REF**" (at -2.54 -3.175) (layer "F.SilkS")
     (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))

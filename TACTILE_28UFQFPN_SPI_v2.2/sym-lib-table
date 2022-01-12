@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "STM32G071G8U6N")(type "KiCad")(uri "${KIPRJMOD}/STM32G071G8U6N/STM32G071G8U6N.kicad_sym")(options "")(descr ""))
+)
