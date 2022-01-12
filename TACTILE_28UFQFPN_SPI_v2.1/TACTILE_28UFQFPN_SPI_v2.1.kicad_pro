@@ -352,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TACTILE_28UFQFPN_SPI_v2.0.kicad_pro",
+    "filename": "TACTILE_28UFQFPN_SPI_v2.1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -386,7 +386,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "TACTILE_28UFQFPN_SPI_v2.0.step",
+      "step": "TACTILE_28UFQFPN_SPI_v2.1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
