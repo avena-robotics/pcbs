@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "UNIVERSAL_JOINT")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/footprints")(options "")(descr ""))
+)

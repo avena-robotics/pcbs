@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "01000020Z")(type "KiCad")(uri "${KIPRJMOD}/ARM_RPI4_HAT/symbols/01000020Z.kicad_sym")(options "")(descr ""))
+  (lib (name "BD9G341AEFJ-E2")(type "KiCad")(uri "${KIPRJMOD}/ARM_RPI4_HAT/symbols/BD9G341AEFJ-E2.kicad_sym")(options "")(descr ""))
+)
