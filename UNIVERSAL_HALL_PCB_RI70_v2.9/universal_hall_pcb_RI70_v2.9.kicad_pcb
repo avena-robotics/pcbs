@@ -511,7 +511,7 @@
       (net 12 "MGH") (pinfunction "MGH") (pintype "output") (tstamp 9d9ee080-fd39-4546-9756-e6cc20495da4))
     (pad "17" smd rect locked (at 0 0 180) (size 1.8 1.8) (layers "B.Cu" "B.Mask")
       (net 6 "GND") (pinfunction "PAD") (pintype "input") (tstamp 21d127fe-2c03-4540-9289-0732fe89c306))
-    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm.wrl"
+    (model "C:/Users/lukas/Documents/pcbs/UNIVERSAL_JOINT_v2_2/UNIVERSAL_JOINT/3dmodels/QFN-3x3_MA710_MNP.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

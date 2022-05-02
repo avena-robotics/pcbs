@@ -408,7 +408,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "ARM_NUCLEO_HAT_v1.step",
+      "step": "ARM_NUCLEO_HAT_v1.0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

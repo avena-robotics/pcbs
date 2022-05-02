@@ -1,6 +1,6 @@
 (footprint "KEYS_3544" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62013444)
+  (tedit 6231AB14)
   (attr smd)
   (fp_text reference "REF**" (at 0 -4.6 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -18,7 +18,7 @@
   (pad "1" thru_hole circle (at -1.85 0) (size 2.54 2.54) (drill 1.65) (layers *.Cu *.Mask) (tstamp 878eb65c-4eda-4f62-9fe9-abd981a3f97e))
   (pad "1" thru_hole circle (at 1.85 0) (size 2.54 2.54) (drill 1.65) (layers *.Cu *.Mask) (tstamp 9551e645-c05c-4042-9045-97b65fdc857b))
   (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/KEYS-3544.step"
-    (offset (xyz 0 0 3))
+    (offset (xyz 0 0.32 3))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
   )

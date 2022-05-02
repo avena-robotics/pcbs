@@ -1,6 +1,6 @@
 (footprint "PinSocket_2x08_P2.54mm_Vertical" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 5A19A42B)
+  (tedit 62345B4F)
   (descr "Through hole straight socket strip, 2x08, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
   (tags "Through hole socket strip THT 2x08 2.54mm double row")
   (attr through_hole)
@@ -49,7 +49,7 @@
   (pad "14" thru_hole oval (at -2.54 15.24) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 7dcf8d7d-8a9e-4d7f-9984-4fc0493994fb))
   (pad "15" thru_hole oval (at 0 17.78) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 5a18a802-5117-4a90-9207-4eba5f1c9561))
   (pad "16" thru_hole oval (at -2.54 17.78) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 45978466-9675-4184-a758-a9062cf06265))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x08_P2.54mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x08_P2.54mm_Vertical.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
