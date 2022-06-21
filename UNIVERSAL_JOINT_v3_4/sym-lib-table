@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "FTSH-107-01-L-DV-K-TR")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/FTSH-107-01-L-DV-K-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "STL110N10F7")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/STL110N10F7.kicad_sym")(options "")(descr ""))
+  (lib (name "STSPIN32G4")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/STSPIN32G4.kicad_sym")(options "")(descr ""))
+  (lib (name "BSS138_Dual")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/BSS138_Dual.kicad_sym")(options "")(descr ""))
+  (lib (name "iC-HOUSE")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/iC-HOUSE.kicad_sym")(options "")(descr ""))
+  (lib (name "MP2456")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/MP2456.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP115")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/NCP115.kicad_sym")(options "")(descr ""))
+  (lib (name "BM02B-SRSS-TB")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/BM02B-SRSS-TB.kicad_sym")(options "")(descr ""))
+  (lib (name "EVP-BB2A9B000")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/EVP-BB2A9B000.kicad_sym")(options "")(descr ""))
+)
