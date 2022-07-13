@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.7,
-          "width": 0.3
+          "height": 0.7874,
+          "width": 0.7874
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -361,7 +361,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "UNIVERSAL_JOINT_v3_3.kicad_pro",
+    "filename": "UNIVERSAL_JOINT_v3_5.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -431,7 +431,6 @@
           "/BOOT3",
           "/CAN_RX",
           "/CAN_TX",
-          "/JTDI",
           "/MA730_CS",
           "/OSC_IN",
           "/OSC_OUT",
@@ -519,7 +518,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "UNIVERSAL_JOINT_v3_2.step",
+      "step": "UNIVERSAL_JOINT_v3_5.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

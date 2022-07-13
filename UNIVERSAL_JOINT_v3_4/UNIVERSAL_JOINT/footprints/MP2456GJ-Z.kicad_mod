@@ -66,4 +66,9 @@
   (pad "4" smd rect (at 1.349751 0.950001) (size 0.997699 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c8aceafa-4dbc-448b-aa6a-ea8c0093efa5))
   (pad "5" smd rect (at 1.349751 0) (size 0.997699 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ad473472-ddc5-4a62-ab2b-26af7c56eec1))
   (pad "6" smd rect (at 1.349751 -0.950001) (size 0.997699 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8ffca83-a86c-4a58-948c-2ec25998a0e9))
+  (model "${KIPRJMOD}/../common_libraries/3dmodels/TSOT-23-6.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

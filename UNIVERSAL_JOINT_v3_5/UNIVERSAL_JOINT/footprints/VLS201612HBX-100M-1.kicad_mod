@@ -19,4 +19,9 @@
   (fp_rect (start -1.05 -0.85) (end 1.05 0.85) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp b04c7766-1443-46af-84ae-156c404288a4))
   (pad "1" smd roundrect (at -0.75 0) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0a0346a5-cc15-49b4-b524-e2b1fe239833))
   (pad "2" smd roundrect (at 0.75 0) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 662abf19-761d-47dc-b34b-affa0a5f29c2))
+  (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/VLS201612HBX-100M-1.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

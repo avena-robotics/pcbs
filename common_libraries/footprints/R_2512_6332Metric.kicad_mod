@@ -1,4 +1,5 @@
-(footprint "R_2512_6332Metric" (version 20211014) (generator pcbnew) (layer "F.Cu")
+(footprint "R_2512_6332Metric" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 617898C0)
   (descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "resistor")
@@ -25,9 +26,9 @@
   (fp_line (start -3.15 -1.6) (end 3.15 -1.6) (layer "F.Fab") (width 0.1) (tstamp 539f48c2-58a5-4dc0-b370-76ed1c7b9620))
   (fp_line (start -3.15 1.6) (end -3.15 -1.6) (layer "F.Fab") (width 0.1) (tstamp 7d639912-5cdc-4814-80de-c3aa9aea09e5))
   (fp_line (start 3.15 -1.6) (end 3.15 1.6) (layer "F.Fab") (width 0.1) (tstamp f8ea046a-a91a-4627-bb20-3fffa4dab5ab))
-  (pad "1" smd roundrect locked (at -2.9625 0) (size 1.225 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.204082) (tstamp a937cc42-af31-4059-aaa4-559720f515a7))
-  (pad "2" smd roundrect locked (at 2.9625 0) (size 1.225 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.204082) (tstamp 8d98b693-cf68-44c4-b2bd-238af5c3b109))
-  (model "${KIPRJMOD}/3dmodels/R_2512_6332Metric.step"
+  (pad "1" smd roundrect (at -2.9625 0) (size 1.225 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.204082) (tstamp a937cc42-af31-4059-aaa4-559720f515a7))
+  (pad "2" smd roundrect (at 2.9625 0) (size 1.225 3.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.204082) (tstamp 8d98b693-cf68-44c4-b2bd-238af5c3b109))
+  (model "${KIPRJMOD}/../common_libraries/3dmodels/R_2512_6332Metric.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

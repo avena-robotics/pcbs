@@ -49,4 +49,9 @@
   (pad "31" smd roundrect (at -1.25 -2.45) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.5) (tstamp f5980574-f6be-47dc-b1ab-8921df9fe709))
   (pad "32" smd roundrect (at -1.75 -2.45) (size 0.3 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.5) (tstamp b3dca766-8ed1-49a2-85ab-278e7b90528a))
   (pad "33" smd roundrect (at 0 0) (size 3.6 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.04) (tstamp fbb0b552-fb08-401b-8d69-530f2e464c49))
+  (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/iC-PZ.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

@@ -361,7 +361,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "UNIVERSAL_JOINT_v3_3.kicad_pro",
+    "filename": "UNIVERSAL_JOINT_v3_4.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -519,7 +519,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "UNIVERSAL_JOINT_v3_2.step",
+      "step": "UNIVERSAL_JOINT_v3_4.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

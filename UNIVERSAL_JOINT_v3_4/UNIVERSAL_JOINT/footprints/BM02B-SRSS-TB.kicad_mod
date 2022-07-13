@@ -20,7 +20,7 @@
   (pad "2" smd roundrect (at 0.5 -3.425) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp aa288a22-ea1d-474d-8dae-efe971580843))
   (pad "3" smd roundrect (at -1.8 -0.9) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 97e5f992-979e-4291-bd9a-a77c3fd4b1b5))
   (pad "4" smd roundrect (at 1.8 -0.9) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 92adc2a7-705f-4e7b-90a7-1c91d9f5977d))
-  (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/SM04B-SRSS-TB.step"
+  (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/BM02B-SRSS-TB.step"
     (offset (xyz 0 2 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

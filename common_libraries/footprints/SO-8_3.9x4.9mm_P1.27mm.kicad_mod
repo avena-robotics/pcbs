@@ -37,7 +37,7 @@
   (pad "6" smd roundrect (at 2.575 0.635) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fd68e206-98cb-4d79-bd61-4e6d6e51facf))
   (pad "7" smd roundrect (at 2.575 -0.635) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ae510abd-303c-4dda-8fe9-c9a335cc9212))
   (pad "8" smd roundrect (at 2.575 -1.905) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 097d278b-c084-4e81-b574-c3d21c8a0c40))
-  (model "C:/Users/lukas/Documents/pcbs/common_libraries/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
+  (model "${KIPRJMOD}/../common_libraries/3dmodels/SO-8_3.9x4.9mm_P1.27mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

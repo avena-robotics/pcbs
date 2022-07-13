@@ -1,4 +1,5 @@
-(footprint "61-2348-11_0030" (version 20211014) (generator pcbnew) (layer "F.Cu")
+(footprint "61-2348-11_0030" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 61B0905B)
   (descr "solder Pin_ with flat with fork, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
   (tags "solder Pin_ with flat fork")
@@ -23,12 +24,7 @@
   (fp_line (start 1.45 -0.25) (end 1.45 0.25) (layer "F.Fab") (width 0.12) (tstamp 7d39bc2f-98ce-4a1a-b89e-0757701ad542))
   (fp_line (start -1.45 -0.25) (end 1.45 -0.25) (layer "F.Fab") (width 0.12) (tstamp 9a8b6210-26fb-48db-a43a-f273af298ee2))
   (fp_line (start -1.45 0.25) (end -1.45 -0.25) (layer "F.Fab") (width 0.12) (tstamp d7796774-ecd2-43c6-bdf7-d50bdd618bf6))
-  (pad "1" thru_hole circle locked (at 0 0) (size 2.4 2.4) (drill 1.3) (layers *.Cu *.Mask) (tstamp 86ed456c-aae5-49dd-8402-605a97b4cd9a))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_Pin.3dshapes/Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+  (pad "1" thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.3) (layers *.Cu *.Mask) (tstamp 86ed456c-aae5-49dd-8402-605a97b4cd9a))
   (model "${KIPRJMOD}/UNIVERSAL_JOINT/3dmodels/61-2348-11_0030.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

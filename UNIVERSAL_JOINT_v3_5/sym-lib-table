@@ -8,4 +8,5 @@
   (lib (name "NCP115")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/NCP115.kicad_sym")(options "")(descr ""))
   (lib (name "BM02B-SRSS-TB")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/BM02B-SRSS-TB.kicad_sym")(options "")(descr ""))
   (lib (name "EVP-BB2A9B000")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/EVP-BB2A9B000.kicad_sym")(options "")(descr ""))
+  (lib (name "TC2030-IDC")(type "KiCad")(uri "${KIPRJMOD}/UNIVERSAL_JOINT/symbols/TC2030-IDC.kicad_sym")(options "")(descr ""))
 )

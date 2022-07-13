@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "Wszystkie warstwy",
+    "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "00690aa_00000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "UNIVERSAL_JOINT_v3_4.kicad_prl",
+    "filename": "UNIVERSAL_JOINT_v3_5.kicad_prl",
     "version": 3
   },
   "project": {
